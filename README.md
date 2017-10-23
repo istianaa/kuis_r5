@@ -1,8 +1,8 @@
 # kuis_r5
 Anggita Yaumil Istiana
 
-Ideal
-![Alt text](https://github.com/istianaa/kuis_r5/blob/master/laki_ideal.PNG)
+
+ 1.![Alt text](https://github.com/istianaa/kuis_r5/blob/master/laki_ideal.PNG)
 
 
 ![Alt text](https://github.com/istianaa/kuis_r5/blob/master/laki_overweight.PNG)
