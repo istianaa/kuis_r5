@@ -17,7 +17,7 @@ Ideal
 ![Alt text](https://github.com/istianaa/kuis_r5/blob/master/perempuan_overweight.PNG)
 
 
-![Alt text](https://github.com/istianaa/kuis_r5/blob/master/perempuan_underweight.PNG)
+![Alt text](https://github.com/istianaa/kuis_r5/blob/master/perempuan_undrweight.PNG)
 
 
 
