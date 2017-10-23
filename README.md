@@ -1,5 +1,5 @@
 # kuis_r5
-Anggita Yaumil Istiana
+Anggita Yaumil Istiana / 08 /XI RPL 5
 
 
  ![Alt text](https://github.com/istianaa/kuis_r5/blob/master/laki_ideal.PNG)
